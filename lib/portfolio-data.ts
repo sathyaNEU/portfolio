@@ -55,7 +55,7 @@ export const portfolioData: PortfolioData = {
   contact: {
     phone: "+18573796719",
     email: "pers.sathya@gmail.com",
-    linkedin: "https://www.linkedin.com/in/sathyavarthan-balachandar/",
+    linkedin: "https://www.linkedin.com/in/sathy30/",
     github: "https://github.com/sathyaNEU",
   },
   certifications: [
@@ -64,12 +64,12 @@ export const portfolioData: PortfolioData = {
       issuer: "Microsoft",
       credentialId: "8bc05af30e1cf6a7",
       verificationUrl:
-        "https://learn.microsoft.com/en-us/users/sathyavarthanbalachandar-5464/credentials/8bc05af30e1cf6a7",
+        "https://learn.microsoft.com/api/credentials/share/en-us/SathyavarthanBalachandar-3933/9EDD2C6709AA1793?sharingId=775E0609AA608504",
     },
     {
       title: "Salesforce Certified: Agentforce Specialist",
       issuer: "Salesforce",
-      verificationUrl: "https://www.salesforce.com/trailblazer/sathyavarthanbalachandar",
+      verificationUrl: "https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=K3bZaZSOlcTD05H9OjBtoCmJ+d0z2TyCsDo9nFAZAeiq2OzOIHK9wSzZkLP66QPu",
     },
   ],
   experience: [
@@ -118,7 +118,7 @@ export const portfolioData: PortfolioData = {
       title: "FRED Economic Data Pipeline",
       description:
         "Real-time financial analytics platform that processes Federal Reserve Economic Data. Features automated data processing, treasury spread analytics, and interactive dashboards for economic forecasting.",
-      githubUrl: "#",
+      githubUrl: "https://github.com/sathyaNEU/fred-t102y-snowflake-incremental-elt",
       imageUrl:
         "./images/fred-20economic-20data-20pipeline-20-20comprehensive-20real-time-20financial-20analytics-20platform.png",
       imageAlt: "FRED Economic Data Pipeline Architecture",
@@ -128,7 +128,7 @@ export const portfolioData: PortfolioData = {
       title: "SEC Financial Data Pipeline",
       description:
         "Automated system that extracts financial data from SEC reports and transforms it into organized, queryable format. Built with modern cloud technologies including Snowflake, dbt, Apache Airflow, and AWS.",
-      githubUrl: "#",
+      githubUrl: "https://github.com/bigdata-org/sec-financial-data-pipeline",
       imageUrl: "./images/sec-20financial-20data-20pipeline.png",
       imageAlt: "SEC Financial Data Pipeline Architecture",
       technologies: ["Python", "Apache Airflow", "dbt", "Snowflake", "AWS", "FastAPI", "Streamlit"],
@@ -137,7 +137,7 @@ export const portfolioData: PortfolioData = {
       title: "NVIDIA Earnings Intelligence Platform",
       description:
         "AI-powered system that processes and analyzes NVIDIA quarterly financial reports. Uses advanced document processing and vector storage to enable intelligent search across multiple quarters of financial data.",
-      githubUrl: "#",
+      githubUrl: "https://github.com/bigdata-org/nvidia-financial-multimodal-rag-pipeline",
       imageUrl: "./images/nvidia-20earning-20intelligence-20platform.jpg",
       imageAlt: "NVIDIA Earnings Intelligence Platform Architecture",
       technologies: [
