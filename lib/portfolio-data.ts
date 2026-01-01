@@ -120,7 +120,7 @@ export const portfolioData: PortfolioData = {
         "Real-time financial analytics platform that processes Federal Reserve Economic Data. Features automated data processing, treasury spread analytics, and interactive dashboards for economic forecasting.",
       githubUrl: "#",
       imageUrl:
-        "/images/fred-20economic-20data-20pipeline-20-20comprehensive-20real-time-20financial-20analytics-20platform.png",
+        "images/fred-20economic-20data-20pipeline-20-20comprehensive-20real-time-20financial-20analytics-20platform.png",
       imageAlt: "FRED Economic Data Pipeline Architecture",
       technologies: ["Python", "Snowflake", "AWS Lambda", "GCP Storage", "Streamlit", "Plotly"],
     },
@@ -129,7 +129,7 @@ export const portfolioData: PortfolioData = {
       description:
         "Automated system that extracts financial data from SEC reports and transforms it into organized, queryable format. Built with modern cloud technologies including Snowflake, dbt, Apache Airflow, and AWS.",
       githubUrl: "#",
-      imageUrl: "/images/sec-20financial-20data-20pipeline.png",
+      imageUrl: "images/sec-20financial-20data-20pipeline.png",
       imageAlt: "SEC Financial Data Pipeline Architecture",
       technologies: ["Python", "Apache Airflow", "dbt", "Snowflake", "AWS", "FastAPI", "Streamlit"],
     },
@@ -138,7 +138,7 @@ export const portfolioData: PortfolioData = {
       description:
         "AI-powered system that processes and analyzes NVIDIA quarterly financial reports. Uses advanced document processing and vector storage to enable intelligent search across multiple quarters of financial data.",
       githubUrl: "#",
-      imageUrl: "/images/nvidia-20earning-20intelligence-20platform.jpg",
+      imageUrl: "images/nvidia-20earning-20intelligence-20platform.jpg",
       imageAlt: "NVIDIA Earnings Intelligence Platform Architecture",
       technologies: [
         "Azure Databricks",
