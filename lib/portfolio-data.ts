@@ -53,8 +53,8 @@ export const portfolioData: PortfolioData = {
   summary:
     "Data Engineer with 3+ years of experience building automated data systems that help companies make better business decisions. I specialize in creating reliable data pipelines, organizing large datasets, and building dashboards that track important business metrics.",
   contact: {
-    phone: "+18573796719",
-    email: "pers.sathya@gmail.com",
+    phone: "+1(617)-749-7974",
+    email: "sathyavarthan.balachandar@gmail.com",
     linkedin: "https://www.linkedin.com/in/sathy30/",
     github: "https://github.com/sathyaNEU",
   },
